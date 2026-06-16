@@ -4,7 +4,7 @@
 
 ### 💻 COMPUTER & COMMUNICATION STUDENT | FULL STACK WEB DEVELOPER | CREATIVE THINKER
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Web+Developer;Java+Developer;Open+Source+Enthusiast;Building+Real-World+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=CODE-+CREATE-+INNOVATE.;DESIGNING+EXPERIENCES+THAT+MATTER;BUILDING+DIGITAL+SOLUTIONS;CREATIVE+DEVELOPER+WITH+BIG+IDEAS;LET's+BUILD+SOMETHING+AMAZING" alt="Typing SVG" />
 
 </div>
 
