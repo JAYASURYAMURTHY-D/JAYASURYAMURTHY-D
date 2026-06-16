@@ -115,9 +115,7 @@ A modern animated portfolio showcasing projects, skills, achievements, and profe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/YOUR_USERNAME)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/YOUR_USERNAME)
+<img width="50" height="50" src="https://img.icons8.com/ios/50/codechef.png" alt="codechef"/>
 
 ---
 
