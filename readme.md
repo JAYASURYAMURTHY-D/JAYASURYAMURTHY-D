@@ -115,7 +115,7 @@ A modern animated portfolio showcasing projects, skills, achievements, and profe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 
-<img width="50" height="50" src="https://img.icons8.com/ios/50/codechef.png" alt="codechef"/>
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_USERNAME)
 
 ---
 
