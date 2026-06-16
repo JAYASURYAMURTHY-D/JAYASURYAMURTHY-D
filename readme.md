@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm JayaSurya Murthy
+# 👋 Hi, I'm JAYASURYA MURTHY D
 
 ### 💻 COMPUTER & COMMUNICATION STUDENT | FULL STACK WEB DEVELOPER | CREATIVE THINKER
 
