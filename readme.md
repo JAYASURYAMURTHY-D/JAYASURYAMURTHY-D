@@ -123,8 +123,7 @@ A modern animated portfolio showcasing projects, skills, achievements, and profe
 
 📧 Email: jayasuryamurthy2526@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/
-jayasurya-murthy-d
+💼 LinkedIn: https://www.linkedin.com/in/jayasurya-murthy-d
 
 
 
